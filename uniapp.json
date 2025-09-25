@@ -1,1 +1,4 @@
-{"uni app":["Spanish: 96","Math I: 86","English II: 90"],"studentName":"Jesus Martinez","age":"21"}
+{
+  "uni app":["Spanish: 96","Math I: 86","English II: 90"],
+  "studentName":"Jesus Martinez",
+  "age":"21"}
